@@ -7,4 +7,4 @@
 
  Sou apaixonado por resolver problemas utilizando a programação, por isso busco melhorar minhas habilidades, trazendo métodos ágeis e eficazes para resolver a problemática do cliente da melhor forma possível.
 
-<br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Postgres/MongoDB
+ :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native, Postgres/MongoDB
