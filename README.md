@@ -1,5 +1,8 @@
-### Hi there 👋
+# João Paulo Brune Dos Santos
 
+Técnico Em Desenvolvimento De Sistemas
+
+[![Gmail Badge](https://img.shields.io/badge/-joaopaulobruno123@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaopaulobruno123@gmail.com)](mailto:joaopaulobruno123@gmail.com)
 <!--
 **Joaobru/Joaobru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
