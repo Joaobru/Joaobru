@@ -8,3 +8,4 @@
  Sou apaixonado por resolver problemas utilizando a programação, por isso busco melhorar minhas habilidades, trazendo métodos ágeis e eficazes para resolver a problemática do cliente da melhor forma possível.
 
  :computer: &nbsp; Minha Stack: ReactJS, Node.js, React Native, Postgres/MongoDB
+ :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
