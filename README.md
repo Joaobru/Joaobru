@@ -11,4 +11,4 @@
  
  :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React/React Native
 
- 💬 &nbsp; Portfólio: https://joaobru.github.io/
+ 💬 &nbsp; Portfólio: https://joaobru.netlify.app/
